@@ -1,0 +1,21 @@
+body{
+
+    margin: auto;
+
+    width: 90%;
+
+}
+
+table{
+
+    background-color: rgba(92, 89, 89, 0.693);
+
+    width: 100%;
+
+}
+@media (max-width: 500px){
+    
+    table{
+        width: 50%;
+    }
+}
